@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yw6thixyMKkIJmiMekbudVTd6IdF0rR5J4jjSllcwoelh0cKA96poJM/HJJZtJqa7VU00BcH3zeRzM+9n9uLlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\RosbridgeTest\\RosbridgeTest\\RosbridgeTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

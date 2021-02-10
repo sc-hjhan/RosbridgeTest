@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\..\rosbridge_client_dot_net\rosbridge_client_common\rosbridge_client_common.csproj" />
+		<ProjectReference Include="..\..\rosbridge_client_dot_net\rosbridge_client_socket_for_desktop\rosbridge_client_desktop.csproj" />
+	</ItemGroup>
+
+</Project>
